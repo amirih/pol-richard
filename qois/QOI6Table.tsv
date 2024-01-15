@@ -1,0 +1,11 @@
+Timestep	VariableName	EntityIdx	Value	Notes
+0	avgBalance		1465.5507394032898	
+0	avgNetworkDegree		0.104	
+0	numOfSocialInteractions		0.0	
+0	percentageUnhappy		100.0	
+0	pubVisitPerAgent		0.0	
+288	avgNetworkDegree		0.756	
+288	avgBalance		1590.7127433098178	
+288	numOfSocialInteractions		92.0	
+288	pubVisitPerAgent		1.212	
+288	percentageUnhappy		94.8	
